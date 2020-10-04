@@ -1,0 +1,3 @@
+[submodule "pandas-tester"]
+	path = pandas-tester
+	url = https://github.com/markmc0/pandas-tester
